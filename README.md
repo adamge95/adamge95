@@ -21,8 +21,10 @@
 [<img align="left" alt="<Matlab" width="26px" src="https://img.icons8.com/nolan/64/matlab.png" />][general]
 [<img align="left" alt="Arduino" width="26px" src="https://img.icons8.com/color/48/000000/arduino.png" />][general]
 [<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][general]
+[<img align="left" alt="C" width="26px" src="https://api.iconify.design/logos:c.svg?height=16" />][general]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][general]
 [<img align="left" alt="Tensorflow" width="26px" src="https://api.iconify.design/logos-tensorflow.svg?height=16" />][general]
+[<img align="left" alt="Assembly" width="26px" src="imgs/asm_icon.png" />][general]
 
 <br />
 <br />
