@@ -3,6 +3,7 @@
 ### I'm an engineer, student, and tech/space enthusiast!
 
 - Currently I'm a PhD student at Purdue working on microrobotics
+- Working on tracking algorithms for vision-based micro-force sensors
 - I'm looking to add more stuff to my Github profile
 
 ### Connect with me:
@@ -32,6 +33,5 @@
 [website]: https://web.ics.purdue.edu/~adamg/
 [linkedin]: https://www.linkedin.com/in/georges-adam-02577680/
 [general]: https://web.ics.purdue.edu/~adamg/
-[google]: https://google.com
 [researchgate]: https://www.researchgate.net/profile/Georges_Adam
 [orcid]: https://orcid.org/0000-0002-2307-3785
