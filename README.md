@@ -4,6 +4,7 @@
 
 - Currently I'm a PhD student at Purdue working on microrobotics
 - Working on tracking algorithms for vision-based micro-force sensors
+- I'm trying to learn more about Unity for VR system dev and Tensorflow for ML applications
 - I'm looking to add more stuff to my Github profile
 
 ### Connect with me:
@@ -23,6 +24,7 @@
 [<img align="left" alt="Arduino" width="26px" src="https://img.icons8.com/color/48/000000/arduino.png" />][general]
 [<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][general]
 [<img align="left" alt="C" width="26px" src="https://api.iconify.design/logos:c.svg?height=16" />][general]
+[<img align="left" alt="Unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />][general]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][general]
 [<img align="left" alt="Tensorflow" width="26px" src="https://api.iconify.design/logos-tensorflow.svg?height=16" />][general]
 
