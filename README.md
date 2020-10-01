@@ -4,7 +4,7 @@
 
 - Currently I'm a PhD student at Purdue working on microrobotics
 - Working on tracking algorithms for vision-based micro-force sensors
-- I'm trying to learn more about Unity for VR system dev and Tensorflow for ML applications
+- I'm trying to learn more about Unity for VR environment dev and Tensorflow for ML applications
 - I'm looking to add more stuff to my Github profile
 
 ### Connect with me:
