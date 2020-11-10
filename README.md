@@ -22,9 +22,9 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][general]
 [<img align="left" alt="<Matlab" width="26px" src="https://img.icons8.com/nolan/64/matlab.png" />][general]
 [<img align="left" alt="Arduino" width="26px" src="https://img.icons8.com/color/48/000000/arduino.png" />][general]
-[<img align="left" alt="C++" width="26px" src=https://api.iconify.design/logos-c-plusplus.svg?height=16"/>][general]
+[<img align="left" alt="C++" width="26px" src="https://api.iconify.design/logos-c-plusplus.svg?height=16"/>][general]
 [<img align="left" alt="C" width="26px" src="https://api.iconify.design/logos:c.svg?height=16" />][general]
-[<img align="left" alt="C#" width="26px" src="https://api.iconify.design/logos:c-sharp.svg?height=16" />][general]
+<!-- [<img align="left" alt="C#" width="26px" src="https://api.iconify.design/logos:c-sharp.svg?height=16" />][general] -->
 [<img align="left" alt="Unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />][general]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][general]
 [<img align="left" alt="Tensorflow" width="26px" src="https://api.iconify.design/logos-tensorflow.svg?height=16" />][general]
