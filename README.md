@@ -27,6 +27,7 @@
 [<img align="left" alt="Unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />][general]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][general]
 [<img align="left" alt="Tensorflow" width="26px" src="https://api.iconify.design/logos-tensorflow.svg?height=16" />][general]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://api.iconify.design/logos:jupyter.svg?height=16" />][general]
 
 <br />
 <br />
