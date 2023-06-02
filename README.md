@@ -2,16 +2,16 @@
 
 ### I'm an engineer, student, and tech/space enthusiast!
 
-- Currently I'm a PhD student at Purdue working on microrobotics
+- Currently I'm a Postodoctoral Researcher at Purdue working on microrobotics
 - Working on tracking algorithms for vision-based micro-force sensors
 - I'm trying to learn more about Unity for VR environment dev and Tensorflow for ML applications
 - I'm looking to add more stuff to my Github profile
 
-### Connect with me:
+<!-- ### Connect with me:
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Georges | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Georges | ResearchGate" width="22px" src="https://img.icons8.com/windows/32/000000/researchgate.png" />][researchgate]
-[<img align="left" alt="Georges | Orcid" width="22px" src="https://github.com/ORCID/ORCID-Source/blob/master/orcid-web/src/main/webapp/static/img/mini-icon.png" />][orcid]
+[<img align="left" alt="Georges | Orcid" width="22px" src="https://github.com/ORCID/ORCID-Source/blob/master/orcid-web/src/main/webapp/static/img/mini-icon.png" />][orcid] -->
 
 
 <br />
